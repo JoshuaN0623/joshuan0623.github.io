@@ -1,0 +1,76 @@
+.iframe-container{
+    position:relative;
+    width: 100px;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.iframe-containter iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px; 
+}
+
+
+
+.rightmenu {
+    top: 114px;
+    bottom: 64px;
+    right: 5px;
+    width: 100px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    right: 5px;
+    width: 100px;
+    text-align: center;
+    position: fixed;
+    
+        
+}
+
+
+.font{
+    color: blue;
+    font-weight: lighter
+    
+}
+
+
+.reference{
+     color: green;
+   
+         
+}
+.header{
+    color: gray;
+    font-weight: lighter
+}
+
+.header2{
+    color: blue;
+    font-weight: lighter
+}
+
+
+.tableaumain{
+     text-align: center;
+    position: fixed
+    
+}
+
+.mainbody{
+    top: 114px;
+    left: 67px;
+    bottom: 64px;
+    right: 114px;
+    position: fixed
+        margin: 0 auto;
+min-height:450px;
+width:960px;
+    overflow-x:auto
+}
